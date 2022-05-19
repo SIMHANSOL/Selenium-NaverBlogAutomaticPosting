@@ -1,5 +1,6 @@
 # Python_NaverBlogAutomaticPosting
 
+#### 셀레니움 학습용 <br>
 셀레니움을 이용한 네이버 계정 로그인 / 블로그 자동 포스팅 기능 예제입니다.
 
 ## Install
