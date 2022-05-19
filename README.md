@@ -14,7 +14,7 @@ $ pip install pyperclip
 
 <br>
 
-## Example
+## Use
 ``` sh
 $ py main.py
 ```
