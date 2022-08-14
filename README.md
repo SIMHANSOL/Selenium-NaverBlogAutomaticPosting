@@ -7,9 +7,7 @@
 
 ## Install
 ``` sh
-$ pip install selenium
-$ pip install chromedriver-autoinstaller
-$ pip install pyperclip
+$ pip install selenium chromedriver-autoinstaller pyperclip
 ```
 
 <br>
